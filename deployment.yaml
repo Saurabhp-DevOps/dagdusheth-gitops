@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: dagdusheth-app
-        image: 984124409676.dkr.ecr.ap-south-1.amazonaws.com/dagdusheth-app:latest
+        image: 984124409676.dkr.ecr.ap-south-1.amazonaws.com/dagdusheth-app:v2
         ports:
         - containerPort: 80
